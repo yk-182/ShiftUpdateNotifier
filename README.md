@@ -1,0 +1,2 @@
+# ShiftUpdateNotifier
+GoogleAppsScriptでシフトの更新があった際に、対象者にLINEかメールで通知するプログラム
